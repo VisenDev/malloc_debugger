@@ -1,4 +1,4 @@
-#include "../include/debug.h"
+#include "../include/debug.h" //change this to wherever your debug.h file is
 
 unsigned num_malloc_records = 0;
 MallocInfo malloc_records[1024];
